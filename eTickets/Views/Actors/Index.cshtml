@@ -1,0 +1,49 @@
+﻿@*Define Model*@
+@model IEnumerable<Actor>
+@*Define viewData*@
+@{
+    ViewData["Title"] = "List of Actors";
+}
+
+@*Write Code*@
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+       <table class="table">
+           <thead>
+               <tr>
+                   <th>@Html.DisplayNameFor(Model=>Model.ProfilePictureURL)</th>
+                   <th>@Html.DisplayNameFor(Model=>Model.FullName)</th>
+                   <th>@Html.DisplayNameFor(Model=>Model.Bio)</th>
+                   <th>Actions </th>
+               </tr>
+           </thead>
+           <tbody>
+               @foreach(var item in Model)
+                {
+                   <tr>
+                   <td class="align-middle">
+                       <img class="rounded-circle" src="@item.ProfilePictureURL" alt="@item.FullName" style="max-width:150px">
+                   </td>
+                   <td class="align-middle">
+                       @Html.DisplayFor(x=>item.FullName)
+                   </td>
+                   <td class="align-middle">
+                       @Html.DisplayFor(x=>item.Bio)
+                   </td>
+                   <td class="align-middle">
+                       <a asp-action="Edit"    asp-route-id="@item.id"    class="btn btn-outline-primary"> <i class="bi bi-pencil-square"></i>Edit</a>
+                       <a asp-action="Details" asp-route-id="@item.id"    class="btn btn-outline-info"><i class="bi bi-eye"></i>Details</a>
+                       <a asp-action="delete"  asp-route-id="@item.id"    class="btn btn-outline-danger"><i class="bi bi-"></i>Delete</a>
+
+                   </td>
+                   </tr>   
+                }
+           </tbody>
+       </table>
+    </div>
+</div>
+<div class="text-white">
+        <a asp-action="create" class="btn btn-primary ms-5"><i class="bi bi-plus-circle-dotted"></i>Add</a>
+
+</div>
+

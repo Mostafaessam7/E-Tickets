@@ -1,0 +1,132 @@
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\appsettings.Development.json
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\appsettings.json
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\eTickets.staticwebassets.runtime.json
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\eTickets.exe
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\eTickets.deps.json
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\eTickets.runtimeconfig.json
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\eTickets.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\eTickets.pdb
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Humanizer.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.csproj.AssemblyReference.cache
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.AssemblyInfoInputs.cache
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.AssemblyInfo.cs
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.csproj.CoreCompileInputs.cache
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.RazorAssemblyInfo.cache
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.RazorAssemblyInfo.cs
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets\msbuild.eTickets.Microsoft.AspNetCore.StaticWebAssets.props
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets\msbuild.build.eTickets.props
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eTickets.props
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eTickets.props
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets.pack.json
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets.build.json
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets.development.json
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\scopedcss\bundle\eTickets.styles.css
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\scopedcss\projectbundle\eTickets.bundle.scp.css
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.csproj.CopyComplete
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\refint\eTickets.dll
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.pdb
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.genruntimeconfig.cache
+F:\project .Net\New\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\ref\eTickets.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\appsettings.Development.json
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\appsettings.json
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\eTickets.staticwebassets.runtime.json
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\eTickets.exe
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\eTickets.deps.json
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\eTickets.runtimeconfig.json
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\eTickets.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\eTickets.pdb
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Humanizer.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.csproj.AssemblyReference.cache
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.AssemblyInfoInputs.cache
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.AssemblyInfo.cs
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.csproj.CoreCompileInputs.cache
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.RazorAssemblyInfo.cache
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.RazorAssemblyInfo.cs
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets\msbuild.eTickets.Microsoft.AspNetCore.StaticWebAssets.props
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets\msbuild.build.eTickets.props
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eTickets.props
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eTickets.props
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets.pack.json
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets.build.json
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\staticwebassets.development.json
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\scopedcss\bundle\eTickets.styles.css
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\scopedcss\projectbundle\eTickets.bundle.scp.css
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.csproj.CopyComplete
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\refint\eTickets.dll
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.pdb
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\eTickets.genruntimeconfig.cache
+F:\project .Net\GitHub Project\E-Cinema-Tickets-AspNet-Mvc-Application-master\eTickets\obj\Debug\net6.0\ref\eTickets.dll
